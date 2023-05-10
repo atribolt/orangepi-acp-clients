@@ -1,0 +1,13 @@
+Module DebugDetectorUI
+singleton Constants 1.0 Constants.qml
+EventListSimulator 1.0 EventListSimulator.qml
+EventListModel 1.0 EventListModel.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+HostPort 1.0 HostPort.qml
+ColorScheme 1.0 ColorScheme.qml
+CustomSpinBox 1.0 CustomSpinBox.qml
+CustomButton 1.0 CustomButton.qml
+CustomTextInput 1.0 CustomTextInput.qml
+Spoiler 1.0 Spoiler.qml
+SpectrogramView 1.0 SpectrogramView.qml
+SignalView 1.0 SignalView.qml
